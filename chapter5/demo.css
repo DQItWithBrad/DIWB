@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+body {backgrount-image:
+url("background.png");
+}
+p{
+	font-family: Gotham, Helvetica, Arial, "sans-serif";
+	font-size: 24px;
+	background-color:red;
+	text-align:center;
+}

@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+header, nav, main, footer {
+	padding-left: 15px
+}
+body {
+	margin: 0px;
+	border: 5px solid black;
+	background-color: #7F7777;
+	width:80%;
+	min-width:750px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+header{
+	hieght:75px;
+	line-hieght:75px;
+}
+#wrapper {
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	border:2px solid black;
+	background-color:#7F7777;
+	box-shadow: 5px 5px 5px #7F7777;
+}
+body {
+	background-image:linear-gradient(to bottom, #ffffff, #ff0000);
+}
+

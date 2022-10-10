@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+	body {background-color:mediumseagreen;}
+	.headlineteat{color:#00FF00;}
+	.listcolor{color:#0000FF;}
+nav {
+	background-color:black;
+}
+
+nav a:hover {
+	color:white;
+}
+.companyname{
+	font-weight: bold;
+	color: #B40404;
+}
+h1{
+	margin-bottem:0;
+}

@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-color: #F5F5F5;
+	color: #40407A;
+	font-family: verdana;}
+header {background-color: #80CBC4;}
+nav {background-color: #40407A}
+nav a {color: #F5F5F5}
+footer {background-color: #80CBC4}
+.contact {background-color: lightgray}
+h1 {
+	margin-bottem: 0;
+}
+nav a:hover{
+	color: #80CBC4
+}
